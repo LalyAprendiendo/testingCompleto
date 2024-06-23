@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": "Libro modificado",
+    "author": "Flor Loto",
+    "tags": ["Ciencia Ficcion", "Acción"]
+  },
+  {
+    "id": 1,
+    "name": "20.000 Legues Under the Sea",
+    "author": "Julio Verne",
+    "tags": ["Ciencia Ficcion", "Drama", "Accion"]
+  },
+  {
+    "id": 2,
+    "name": "El Alquimista",
+    "author": "Paulo Cohelo",
+    "tags": ["Aventura", "Drama", "Misticismo"]
+  },
+  {
+    "id": 3,
+    "name": "Oliver Twist",
+    "author": "Carlos Dickens",
+    "tags": ["Realismo", "Drama", "Historia"]
+  },
+  {
+    "id": 4,
+    "name": "2001: Odisea del Espacio",
+    "author": "Kubrick & Arthur Clarcke",
+    "tags": ["Ciencia Ficcion", "Filosofia", "Accion"]
+  },
+  {
+    "id": 6,
+    "name": "Vuelta al mundo en 80 días",
+    "author": "Julio Verne",
+    "tags": ["Ciencia Ficcion", "Aventura", "Accion"]
+  },
+  {
+    "id": 7,
+    "name": "La Máquina del Tiempo",
+    "author": "Herbert Wells",
+    "tags": ["Ciencia Ficcion", "Aventura", "Física"]
+  },
+  {
+    "id": 8,
+    "name": "Un Mundo Feliz",
+    "author": "Aldous Huxley",
+    "tags": ["Realismo", "Drama", "Filosofia"]
+  },
+  {
+    "id": 9,
+    "name": "1984",
+    "author": "George Orwell",
+    "tags": ["Realismo", "Drama", "Filosofia"]
+  },
+  {
+    "id": 10,
+    "name": "Rebelión en la Granja",
+    "author": "George Orwell",
+    "tags": ["Realismo", "Drama", "Filosofia"]
+  },
+  {
+    "id": 11,
+    "name": "La República",
+    "author": "Platón",
+    "tags": ["Filosofia", "Historia", "Antropologia"]
+  },
+  {
+    "id": 12,
+    "name": "Hamlet",
+    "author": "Shakespeare",
+    "tags": ["Comedia", "Drama", "Teatro"]
+  },
+  {
+    "id": 13,
+    "name": "La Tempestad",
+    "author": "Shakespeare",
+    "tags": ["Comedia", "Drama", "Teatro"]
+  },
+  {
+    "id": 14,
+    "name": "Sidharta",
+    "author": "Herman Hesse",
+    "tags": ["Filosofia", "Drama", "realismo"]
+  }
+]
